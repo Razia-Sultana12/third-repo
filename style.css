@@ -4,3 +4,8 @@ p{color: blueviolet;}
 h3{color: crimson;
    background-color: darkgoldenrod;}
    div{background-color: darkkhaki;}
+   img{
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+   }
